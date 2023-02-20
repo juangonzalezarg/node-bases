@@ -1,0 +1,6 @@
+# Módulos de node
+node_modules/
+
+# Salidas app
+salida/*.txt
+
